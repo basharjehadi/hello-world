@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Hello I am Abul Bashar I am building a simple DevOps Project  </h1>
+    <h1> Hi I am Abul Bashar I am building a simple DevOps Project  </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
